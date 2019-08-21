@@ -1,5 +1,7 @@
 # co2-history
 
+![plot](co2-history.png)
+
 Carbon dioxide concentration in atmosphere over last 800,000 years
 
 **data sources:**
