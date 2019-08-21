@@ -15,3 +15,5 @@ Carbon dioxide concentration in atmosphere over last 800,000 years
 - https://www.sealevel.info/co2_and_ch4.html
 - https://www.nature.com/articles/nature06949
 - [reddit discussion](https://www.reddit.com/r/dataisbeautiful/comments/ct9ifm/oc_co2_concentration_in_atmosphere_over_last/)
+
+the R code is free to re-use without permission!
