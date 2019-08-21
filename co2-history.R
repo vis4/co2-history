@@ -99,6 +99,8 @@ fig <- co2 %>%
   
 print(fig)
 
+ggsave('co2-history.png', fig, device='png', width=14,height=7, dpi=300, scale=1)
+
 cairo_pdf("co2-history.pdf", width=14, height = 7)
 print(fig)
 dev.off()
